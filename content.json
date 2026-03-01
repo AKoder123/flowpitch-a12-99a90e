@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "deckId": "a12",
+    "title": "Expanding into Australia",
+    "theme": "Blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Expanding Down Under",
+      "subheadline": "Market opportunities, strategy, and implementation plan — Advay Kumar"
+    },
+    {
+      "type": "content",
+      "headline": "Executive Summary",
+      "bullets": [
+        "Objective: profitable footprint within 18–24 months.",
+        "Opportunity: resilient, high‑income economy, strong consumer power.",
+        "Alignment: supports global growth, APAC diversification goals.",
+        "Capital & ROI: staged investment; break‑even by month 24–30."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Australia at a Glance"
+    },
+    {
+      "type": "content",
+      "headline": "Market Overview",
+      "bullets": [
+        "Economy: AAA stability, strong Asia‑Pacific trade ties.",
+        "Demographics: 26M, urban hubs Sydney, Melbourne, Brisbane.",
+        "Behavior: digital natives expect seamless, high‑touch service.",
+        "Sector trends: add two sector growth trends."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Competitive Landscape",
+      "bullets": [
+        "Incumbents: leading local and global competitors.",
+        "Market gaps: underserved segments, experience pain points.",
+        "Our edge: differentiated product, data, service quality.",
+        "Barriers: local loyalty and high operating costs."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Regulatory & Legal",
+      "bullets": [
+        "Corporate: ASIC registration and governance requirements.",
+        "Taxation: corporate, GST, PAYG obligations.",
+        "Employment: Fair Work, NES, superannuation mandates.",
+        "Privacy: comply with Australian Privacy Principles."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Go‑to‑Market Strategy"
+    },
+    {
+      "type": "content",
+      "headline": "Market Entry Strategy",
+      "left": {
+        "title": "Entry model",
+        "bullets": [
+          "Recommend subsidiary with strong local leadership.",
+          "Evaluate JV or distribution partnerships.",
+          "Pilot in one state before scaling.",
+          "Phase rollout based on demand signals."
+        ]
+      },
+      "right": {
+        "title": "Localization & logistics",
+        "bullets": [
+          "Tailor brand voice to Australian nuance.",
+          "Show pricing clearly with taxes.",
+          "Optimize fulfillment across vast geography.",
+          "Support regional service hours."
+        ]
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Digital & Operations",
+      "left": {
+        "title": "Technology",
+        "bullets": [
+          "Localize e‑commerce, CRM, and service channels.",
+          "Secure payments: BPAY and direct entry.",
+          "Local data hosting where required."
+        ]
+      },
+      "right": {
+        "title": "People & governance",
+        "bullets": [
+          "Hire local leadership and specialists.",
+          "Build frontline support teams.",
+          "Define reporting to global headquarters."
+        ]
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Financial Projections",
+      "left": {
+        "title": "Investment & revenue",
+        "bullets": [
+          "Initial setup, licensing, and marketing budgets.",
+          "Revenue forecast months 12, 24, 36.",
+          "OpEx: wages, real estate, platforms."
+        ]
+      },
+      "right": {
+        "title": "Risk mitigation",
+        "bullets": [
+          "FX buffers and hedging policies.",
+          "Contingency for demand volatility.",
+          "Scenario planning and burn limits."
+        ]
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Implementation Timeline",
+      "bullets": [
+        "Phase 1 (1–3): legal, compliance, early hires.",
+        "Phase 2 (4–6): infrastructure, localization, soft launch.",
+        "Phase 3 (7–12): full launch, marketing, review.",
+        "Next steps: approvals, budget, due diligence."
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "Ready to expand in Australia",
+      "subheadline": "Questions and discussion",
+      "bullets": [
+        "Call to action: request board approval to proceed.",
+        "Contact: Advay Kumar."
+      ]
+    }
+  ]
+}

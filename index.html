@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>FlowPitch — Deck</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <!-- Aurora background layers (behind everything) -->
+  <div class="bgLayer bgA" aria-hidden="true"></div>
+  <div class="bgLayer bgB" aria-hidden="true"></div>
+  <div class="bgLayer bgC" aria-hidden="true"></div>
+
+  <!-- Top navigation -->
+  <header id="topBar" class="topBar" role="banner">
+    <div class="navInner">
+      <div class="brand">
+        <span class="badge"></span>
+        <span id="navTitle" class="navTitle">Loading…</span>
+      </div>
+      <nav class="navActions" aria-label="Presentation controls">
+        <button id="prevBtn" type="button" class="btn ghost" aria-label="Previous slide">Prev</button>
+        <button id="nextBtn" type="button" class="btn pri" aria-label="Next slide">Next</button>
+        <button id="exportPdfBtn" type="button" class="btn outline" aria-label="Export PDF">Export PDF</button>
+      </nav>
+    </div>
+    <div id="topProgress" aria-hidden="true"><div id="topProgressBar"></div></div>
+  </header>
+
+  <!-- Main deck scroll area -->
+  <main id="deck" class="deck" role="main" aria-live="polite">
+    <div id="slides" class="slides" role="list"></div>
+  </main>
+
+  <!-- Side dots progress -->
+  <nav id="sideDots" aria-label="Slide progress"></nav>
+
+  <!-- PDF stage is created on demand in JS -->
+</body>
+</html>
